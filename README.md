@@ -6,7 +6,6 @@
 
 ### Requirements:
 
-- xdg-open
 - gcc 10.2.1+
 
 ### Install
@@ -20,7 +19,7 @@ $ git clone https://github.com/LuisHenriqueFA14/web && cd web
 Build:
 
 ```
-$ c++ src/web.cpp -o web
+$ c++ src/web.cpp include/opener.c/opener.o include/opener.c/deps/os.c/os.o -o web
 ```
 
 ### Contributing

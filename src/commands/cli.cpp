@@ -2,7 +2,6 @@
 #include <string>
 
 #include "cli/platforms/dd.cpp"
-#include "cli/platforms/ec.cpp"
 #include "cli/platforms/gh.cpp"
 #include "cli/platforms/go.cpp"
 #include "cli/platforms/wi.cpp"
@@ -30,7 +29,5 @@ void cli(string platform, string content) {
 		ya(search);
 	} else if(platform == "yt") {
 		yt(search);
-	} else if(platform == "ec") {
-		ec(search);
 	}
 }
