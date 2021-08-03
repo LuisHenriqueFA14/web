@@ -14,13 +14,13 @@
 Clone the repo:
 
 ```
-git clone https://github.com/LuisHenriqueFA14/web && cd web
+$ git clone https://github.com/LuisHenriqueFA14/web && cd web
 ```
 
 Build:
 
 ```
-c++ src/web.cpp -o web
+$ c++ src/web.cpp -o web
 ```
 
 ### Contributing
