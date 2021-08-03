@@ -2,7 +2,7 @@
 
 ### Web is a simple CLI that allows you to search in web (in different platforms) without leave the terminal!
 
-### /* image */
+<img src="./static/print.png"/>
 
 ### Requirements:
 
