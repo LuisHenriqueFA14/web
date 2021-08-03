@@ -8,6 +8,4 @@ void help() {
 	cout << endl << space << rang::fg::cyan <<
 		"🌎 Search in the web, using different platforms whitout leave the Terminal! ⌨️"
 		<< rang::fg::reset << endl << endl;
-
-	cout << ""
 }
