@@ -20,6 +20,7 @@ void help() {
 	cout << space << midSpace << "- " << rang::fg::gray << "wi" << space << rang::fg::reset << "// WikiPedia" << endl;
 	cout << space << midSpace << "- " << rang::fg::gray << "ya" << space << rang::fg::reset << "// Yahoo!" << endl;
 	cout << space << midSpace << "- " << rang::fg::gray << "yt" << space << rang::fg::reset << "// YouTube" << endl;
+	cout << space << midSpace << "- " << rang::fg::gray << "so" << space << rang::fg::reset << "// StackOverflow" << endl;
 
 	cout << endl;
 

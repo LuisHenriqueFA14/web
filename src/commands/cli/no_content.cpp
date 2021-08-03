@@ -8,7 +8,7 @@
 using namespace std;
 
 void no_content(string platform) {
-	vector<string> platformsVec = {"dd", "ec", "gh", "go", "wi", "ya", "yt"};
+	vector<string> platformsVec = {"dd", "ec", "gh", "go", "wi", "ya", "yt", "so"};
 	bool isValidPlatform = false;
 
 	for(int j = 0; j < platformsVec.size(); j += 1) {

@@ -7,6 +7,7 @@
 #include "cli/platforms/wi.cpp"
 #include "cli/platforms/ya.cpp"
 #include "cli/platforms/yt.cpp"
+#include "cli/platforms/so.cpp"
 
 using namespace std;
 
@@ -29,5 +30,7 @@ void cli(string platform, string content) {
 		ya(search);
 	} else if(platform == "yt") {
 		yt(search);
+	} else if(platform == "so") {
+		so(search);
 	}
 }
