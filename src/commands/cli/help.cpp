@@ -7,7 +7,7 @@ void help() {
 	string midSpace = "  ";
 	
 	cout << endl << space << rang::fg::cyan <<
-		"🌎 Search in the web, using different platforms whitout leave the Terminal! ⌨️"
+		"🌎 Search in the web, using different platforms without leaving the Terminal! ⌨️"
 		<< rang::fg::reset << endl << endl;
 
 	cout << space << "Usage: " << rang::fg::yellow << "web <PLATFORM> <SEARCH>" << rang::fg::reset << endl << endl;
